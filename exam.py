@@ -1,4 +1,4 @@
-# Задание 5
+#5
 import math
 
 
@@ -13,7 +13,7 @@ def main(x):
     return 2 * sum
 
 
-# Задание 6
+#6
 def php(x, left, right):
     if x[4] == 'PHP':
         return right
